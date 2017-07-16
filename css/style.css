@@ -1,0 +1,78 @@
+body {
+    padding-top: 70px;
+    font-family: "Lato", sans-serif;
+    color: #6ab9dd;
+    font-weight: 300;
+}
+
+img,
+video,
+embed,
+object {
+    max-width: 100%;
+}
+
+img {
+    box-shadow: 5px 5px 3px #888;
+}
+
+.img-teaser {
+    cursor: pointer; cursor: hand;
+}
+
+
+.thick {
+    border: none;
+    height: 2px;
+    background-color: #6ab9dd;
+}
+
+.main-image {
+    max-height: 350px;
+    margin: 0 auto;
+}
+
+.text-muted {
+    color: #bcbbbb;
+}
+
+.text-thin {
+
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+.title-logo{
+    margin-top: 17px;
+    box-shadow: 5px 5px 3px #888;
+}
+
+.modal {
+    font-family: sans-serif;
+}
+
+.modal-blurb {
+    color: black;
+    text-align: justify;
+    cursor: pointer; cursor: hand;
+    margin: 0 10px 15px 10px;
+}
+
+.modal-body {
+    font-family: sans-serif;
+    font-size: 1.2em;
+    color: grey;
+    text-align: justify;
+    margin: 0 15px 0 15px;
+}
+
+.modal-body p {
+    text-align: justify;
+    margin: 25px 25px 25px 25px;
+}
+
+.modal img{
+    margin: 10px 0 10px 0;
+}
